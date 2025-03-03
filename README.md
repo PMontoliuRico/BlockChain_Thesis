@@ -1,1 +1,1 @@
-##Final code is in BSC##
+## Final code is in BEG folder ##
